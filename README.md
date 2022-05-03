@@ -7,9 +7,8 @@ Netflix is one of the most popular subscription streaming services and productio
 In our data analysis, we’ll be exploring details about what Netflix has available in different categories. Specifically we will be exploring the volume of Movies available in Netflix. 
 
 ### Questions for Exploration
- 
--  Do movies or tv shows have a higher average vote?
--  What are all the current ratings offered?* Which type of ratings have the largest titles?
+- Do movies or tv shows have a higher average vote?
+- What are all the current ratings offered?* Which type of ratings have the largest titles?
 - How is quantity of contents by year?
 - What are all the current genres offered?* Which type of genres have the largest titles
 - How many countries have productions on Netflix? Which country is the largest content production on the Netflix
