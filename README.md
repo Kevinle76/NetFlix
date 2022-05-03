@@ -31,6 +31,10 @@ In our data analysis, we’ll be exploring details about what Netflix has availa
 - There is not much relationship between rating and year
 - Most of runtimes are from 50 -150mins , average is 101 mins
 
+### Presentation Link 
+- [Project 1 : Netflix Movies](Project_1.pptx)
+
+
 ### References
 https://www.kaggle.com/datasets/satpreetmakhija/netflix-movies-and-tv-shows-2021
 https://www.kaggle.com/datasets/akashguna/netflix-prize-shows-information
