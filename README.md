@@ -1,4 +1,4 @@
-# Project-1 NETFLIX
+# NETFLIX
 
 ![alt=""](Netflix_Logo_RGB.png)
 
