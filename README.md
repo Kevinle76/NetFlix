@@ -2,6 +2,8 @@
 
 ![alt=""](Netflix_Logo_RGB.png)
 
+Exploring details about what Netflix has available in different categories and the volume of movies available, using pandas, matplotlib, numpy, scipy.stats, os, opendatasets, datetime, time.
+
 ### Background
 Netflix is one of the most popular subscription streaming services and production companies. It provides streaming services for movies and tv shows from many countries around the world.
 In our data analysis, we’ll be exploring details about what Netflix has available in different categories. Specifically we will be exploring the volume of Movies available in Netflix. 
